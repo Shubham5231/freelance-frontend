@@ -102,7 +102,7 @@ function Login({ providers }) {
                     className="px-3 py-1 text-white font-bold bg-[#29b2fe] transition duration-150 transform hover:scale-105 rounded-full place-self-center focus:outline-none"
                     onClick={() =>
                       signIn("testEmail", {
-                        email: "rajeshraj@gm.c",
+                        email: "shubhammahamuni@gmail.com",
                       })
                     }
                   >
