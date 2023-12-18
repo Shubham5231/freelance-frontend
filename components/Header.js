@@ -105,7 +105,7 @@ function Header({ page }) {
     freelancerId,
     hireRequestId
   ) {
-    // console.log(hireRequestId, "hirerequestid");
+    console.log(hireRequestId, "hirerequestid");
     setLoading(true);
     const url =
       action === "accept"
